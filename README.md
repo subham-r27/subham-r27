@@ -12,13 +12,17 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ---
 
 ## 🏆 My Holopin Badges
 
 ### 🔸 Latest Badge
-[![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025/hacktoberfest-2025-level-0.svg)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgf94873005ih104qpv1fww5)
+[![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025/hacktoberfest-2025-level-0.svg)]([https://www.holopin.io/hacktoberfest2025/userbadge/cmgf94873005ih104qpv1fww5](https://assets.holopin.io/hf2025levels/lvl0-alien.webp))
 
 ### 🔸 Full Badge Board
 [![@subhamr27's Holopin board](https://holopin.me/subhamr27)](https://holopin.io/@subhamr27)
