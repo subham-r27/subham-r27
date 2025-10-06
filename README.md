@@ -26,8 +26,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamr27&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamr27&layout=compact&theme=tokyonight)
+![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subham-r27&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-r27&layout=compact&theme=tokyonight)
 
 ---
 
