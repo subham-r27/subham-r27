@@ -22,7 +22,7 @@
 ## 🏆 My Holopin Badges
 
 ### 🔸 Latest Badge
-[![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025levels/lvl0-alien.webp)](https://assets.holopin.io/hf2025levels/lvl5-alien.webp)
+[![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025levels/lvl5-alien.webp)](https://assets.holopin.io/hf2025levels/lvl5-alien.webp)
 
 ### 🔸 Full Badge Board
 [![@subhamr27's Holopin board](https://holopin.me/subhamr27)](https://holopin.io/@subhamr27)
