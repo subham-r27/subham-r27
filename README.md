@@ -30,8 +30,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subham-r27&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-r27&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subham-r27&theme=tokyonight)
+![Snake animation](https://github.com/subham-r27/subham-r27/blob/output/github-contribution-grid-snake.svg)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subham-r27&theme=tokyonight)
 
 ---
 
