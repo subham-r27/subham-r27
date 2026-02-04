@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subham-r27&theme=tokyonight)
-![Snake animation](https://github.com/subham-r27/subham-r27/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/subham-r27/subham-r27/output/github-contribution-grid-snake.svg)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subham-r27&theme=tokyonight)
 
